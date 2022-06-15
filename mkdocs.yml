@@ -1,6 +1,6 @@
 site_name: Metl Documentation
-markdown_extensions:
-    - fontawesome_markdown
+# markdown_extensions:
+#     - fontawesome_markdown
 theme:
   # logo: metl-logo.png
   name: readthedocs
