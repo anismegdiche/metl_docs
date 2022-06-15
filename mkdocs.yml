@@ -1,0 +1,19 @@
+site_name: Metl Documentation
+markdown_extensions:
+    - fontawesome_markdown
+theme:
+  # logo: metl-logo.png
+  name: readthedocs
+  highlightjs: true
+  hljs_languages:
+    - yaml
+    - js
+    - json
+nav:
+  - Home: index.md
+  - Getting Started: getting-started.md
+  - Architecture Overview: architecture.md
+  - config.yml file reference: config.yml.md
+  - HTTP API: http-api.md
+  - Sample Project: sample.md
+
